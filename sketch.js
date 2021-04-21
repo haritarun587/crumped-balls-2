@@ -1,7 +1,7 @@
 const Engine = Matter.Engine;
 const World = Matter.World;
 const Bodies = Matter.Bodies;
-const Body = Matter.Body;
+
 
 var engine, world,dustbin,paper;
 var ground,ball;
